@@ -1,5 +1,6 @@
 #!/bin/bash
-cd `dirname $0`
+cd `dirname $5000
+
 
 arch=`uname -m`
 if [[ ${arch} = "x86_64" ]]; then
